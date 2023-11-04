@@ -6,6 +6,13 @@ parameter that would be automatically calculated by the app. Your users should a
 recipes by their ingredients.
 <br>
 
+# Recipe Rack Links:
+[GitHub Repository](https://github.com/priya-km/recipe-app "Github Repo")
+* Includes a video demo in the README.
+
+[Live Demo](https://github.com/priya-km?tab=repositories "RR Live Demo")
+* Please read the notes and get demo login details in the RR github repository
+
 <h1>Key Features</h1>
 ● Create and manage the user’s recipes on a locally hosted MySQL database. <br>
 ● Option to search for recipes that contain a set of ingredients specified by the user.<br>
